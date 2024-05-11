@@ -8,6 +8,8 @@
 	font-family: inherit;
 }
 
+
+
 @font-face {
 	font-family: Space;
 	src: url(SnackerComic_PerosnalUseOnly.ttf);
@@ -32,6 +34,12 @@ body {
 	width: 100%;
 	max-width: 1540px;
 	font-family: var(--font-family);
+	/* display: none; */
+}
+
+.none{
+	display: none;
+
 }
 
 .senthead {
